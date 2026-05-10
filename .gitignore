@@ -1,0 +1,9 @@
+*.pt
+__pycache__/
+*.pyc
+.venv/
+.venv312/
+results/
+videos/
+*.mp4
+*.avi
