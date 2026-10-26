@@ -24,6 +24,8 @@ https://github.com/user-attachments/assets/13460054-1d11-4443-a8b9-07eb63b72253
 - 80 COCO classes
 - Clean code: `detector.py`, `webcam_detector.py`, `video_detector.py`
 
+[YOLOv8-ObjectDetector – User Guide.pdf](https://github.com/user-attachments/files/33986348/YOLOv8-ObjectDetector.User.Guide.pdf)
+
 ##### Installation
 ```bash
 pip install -r requirements.txt
@@ -33,4 +35,4 @@ https://github.com/user-attachments/assets/dc915361-8565-4f40-b66e-4d5a82e3bbfc
 
 
 
-[YOLOv8-ObjectDetector – User Guide.pdf](https://github.com/user-attachments/files/33986335/YOLOv8-ObjectDetector.User.Guide.pdf)
+
