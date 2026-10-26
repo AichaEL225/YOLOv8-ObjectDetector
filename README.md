@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/bffe1f17-e02f-4358-b871-21363cf03816
+
 # YOLOv8 Object Detector
 
 Real-time object detection using **YOLOv8** and the **COCO dataset** (80 object classes).
