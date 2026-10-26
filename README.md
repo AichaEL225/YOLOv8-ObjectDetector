@@ -33,3 +33,4 @@ https://github.com/user-attachments/assets/dc915361-8565-4f40-b66e-4d5a82e3bbfc
 
 
 
+[YOLOv8-ObjectDetector – User Guide.pdf](https://github.com/user-attachments/files/33986335/YOLOv8-ObjectDetector.User.Guide.pdf)
