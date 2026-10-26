@@ -13,6 +13,10 @@ Real-time object detection using YOLOv8 and COCO dataset. 15+ FPS on CPU.
 ### Demo
 
 
+https://github.com/user-attachments/assets/13460054-1d11-4443-a8b9-07eb63b72253
+
+
+
 **Detected:** person, wine glass (0.90), bottle (0.84), scissors, teddy bear, toothbrush, handbag
 
 #### Features
